@@ -1,0 +1,17 @@
+D:\Todo\Todo\Todo.Application\bin\Debug\net8.0\Todo.Application.deps.json
+D:\Todo\Todo\Todo.Application\bin\Debug\net8.0\Todo.Application.dll
+D:\Todo\Todo\Todo.Application\bin\Debug\net8.0\Todo.Application.pdb
+D:\Todo\Todo\Todo.Application\obj\Debug\net8.0\Todo.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Todo\Todo\Todo.Application\obj\Debug\net8.0\Todo.Application.AssemblyInfoInputs.cache
+D:\Todo\Todo\Todo.Application\obj\Debug\net8.0\Todo.Application.AssemblyInfo.cs
+D:\Todo\Todo\Todo.Application\obj\Debug\net8.0\Todo.Application.csproj.CoreCompileInputs.cache
+D:\Todo\Todo\Todo.Application\obj\Debug\net8.0\Todo.Application.dll
+D:\Todo\Todo\Todo.Application\obj\Debug\net8.0\refint\Todo.Application.dll
+D:\Todo\Todo\Todo.Application\obj\Debug\net8.0\Todo.Application.pdb
+D:\Todo\Todo\Todo.Application\obj\Debug\net8.0\ref\Todo.Application.dll
+D:\Todo\Todo\Todo.Application\bin\Debug\net8.0\Todo.Domain.dll
+D:\Todo\Todo\Todo.Application\bin\Debug\net8.0\Todo.Infrastructure.dll
+D:\Todo\Todo\Todo.Application\bin\Debug\net8.0\Todo.Domain.pdb
+D:\Todo\Todo\Todo.Application\bin\Debug\net8.0\Todo.Infrastructure.pdb
+D:\Todo\Todo\Todo.Application\obj\Debug\net8.0\Todo.Application.csproj.AssemblyReference.cache
+D:\Todo\Todo\Todo.Application\obj\Debug\net8.0\Todo.App.468A55F7.Up2Date

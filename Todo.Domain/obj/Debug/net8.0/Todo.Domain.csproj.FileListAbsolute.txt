@@ -1,0 +1,11 @@
+D:\Todo\Todo\Todo.Domain\bin\Debug\net8.0\Todo.Domain.deps.json
+D:\Todo\Todo\Todo.Domain\bin\Debug\net8.0\Todo.Domain.dll
+D:\Todo\Todo\Todo.Domain\bin\Debug\net8.0\Todo.Domain.pdb
+D:\Todo\Todo\Todo.Domain\obj\Debug\net8.0\Todo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Todo\Todo\Todo.Domain\obj\Debug\net8.0\Todo.Domain.AssemblyInfoInputs.cache
+D:\Todo\Todo\Todo.Domain\obj\Debug\net8.0\Todo.Domain.AssemblyInfo.cs
+D:\Todo\Todo\Todo.Domain\obj\Debug\net8.0\Todo.Domain.csproj.CoreCompileInputs.cache
+D:\Todo\Todo\Todo.Domain\obj\Debug\net8.0\Todo.Domain.dll
+D:\Todo\Todo\Todo.Domain\obj\Debug\net8.0\refint\Todo.Domain.dll
+D:\Todo\Todo\Todo.Domain\obj\Debug\net8.0\Todo.Domain.pdb
+D:\Todo\Todo\Todo.Domain\obj\Debug\net8.0\ref\Todo.Domain.dll

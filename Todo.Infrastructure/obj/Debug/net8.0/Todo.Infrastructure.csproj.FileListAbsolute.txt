@@ -1,0 +1,17 @@
+D:\Todo\Todo\Todo.Infrastructure\bin\Debug\net8.0\Todo.Infrastructure.deps.json
+D:\Todo\Todo\Todo.Infrastructure\bin\Debug\net8.0\Todo.Infrastructure.runtimeconfig.json
+D:\Todo\Todo\Todo.Infrastructure\bin\Debug\net8.0\Todo.Infrastructure.dll
+D:\Todo\Todo\Todo.Infrastructure\bin\Debug\net8.0\Todo.Infrastructure.pdb
+D:\Todo\Todo\Todo.Infrastructure\obj\Debug\net8.0\Todo.Infrastructure.csproj.AssemblyReference.cache
+D:\Todo\Todo\Todo.Infrastructure\obj\Debug\net8.0\Todo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Todo\Todo\Todo.Infrastructure\obj\Debug\net8.0\Todo.Infrastructure.AssemblyInfoInputs.cache
+D:\Todo\Todo\Todo.Infrastructure\obj\Debug\net8.0\Todo.Infrastructure.AssemblyInfo.cs
+D:\Todo\Todo\Todo.Infrastructure\obj\Debug\net8.0\Todo.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Todo\Todo\Todo.Infrastructure\obj\Debug\net8.0\Todo.Infrastructure.dll
+D:\Todo\Todo\Todo.Infrastructure\obj\Debug\net8.0\refint\Todo.Infrastructure.dll
+D:\Todo\Todo\Todo.Infrastructure\obj\Debug\net8.0\Todo.Infrastructure.pdb
+D:\Todo\Todo\Todo.Infrastructure\obj\Debug\net8.0\Todo.Infrastructure.genruntimeconfig.cache
+D:\Todo\Todo\Todo.Infrastructure\obj\Debug\net8.0\ref\Todo.Infrastructure.dll
+D:\Todo\Todo\Todo.Infrastructure\bin\Debug\net8.0\Todo.Domain.dll
+D:\Todo\Todo\Todo.Infrastructure\bin\Debug\net8.0\Todo.Domain.pdb
+D:\Todo\Todo\Todo.Infrastructure\obj\Debug\net8.0\Todo.Inf.6F6EFB04.Up2Date
